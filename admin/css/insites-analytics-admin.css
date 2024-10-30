@@ -1,0 +1,16 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+ .insites-header-wrapper {
+  display: flex;
+ }
+
+ .insites-header-wrapper img {
+   margin-right: 8px;
+ }
+
+ #uuid {
+  max-width: 420px;
+  width: 100%;
+ }
